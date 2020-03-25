@@ -1,4 +1,4 @@
-package trial_001
+package algorithm_beakjoon
 
 // 200324
 // 10172 : 개
