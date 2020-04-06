@@ -1,0 +1,33 @@
+package algorithm_
+
+// 200405
+// 4153 - 직각삼각형
+
+fun main() {
+	while(true){
+		val input = readLine()!!.split(" ")
+		if(input[0] == "0" && input[1] == "0" && input[2] == "0") break
+		
+		var max = -2
+		
+		for(value in input) {
+			if(value.toInt() > max) {
+				max = value.toInt()
+			}
+		}
+		
+		val list = mutableListOf<Int>()
+		for(i in input) {
+			if(i.toInt() != max) {
+				list.add(i.toInt())
+			}
+		}
+		
+		isAngle90(list[0], list[1], max)
+	}
+}
+
+fun isAngle90(smallFirst: Int, smallSecond: Int, large: Int) {
+	if(smallFirst * smallFirst + smallSecond * smallSecond == large * large) println("right")
+	else println("wrong")
+}
