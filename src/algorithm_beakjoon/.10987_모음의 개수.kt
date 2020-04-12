@@ -6,7 +6,7 @@ package algorithm_beakjoon
 fun main() {
     val input = readLine()!!
     var count = 0
-    var list = arrayOf('a','e','i','o','u')
+    val list = arrayOf('a','e','i','o','u')
     for(i in input) {
         if(i in list) count++
     }
