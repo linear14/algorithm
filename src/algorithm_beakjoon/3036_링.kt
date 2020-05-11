@@ -1,5 +1,7 @@
 package src.algorithm_beakjoon
 
+import java.util.*
+
 // 200503
 // 3036 - 링
 
