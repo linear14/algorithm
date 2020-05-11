@@ -1,10 +1,44 @@
-package algorithm_beakjoon
+package src.algorithm_beakjoon
 
 import java.io.BufferedReader
 import java.io.BufferedWriter
 import java.io.InputStreamReader
 import java.io.OutputStreamWriter
 
+// 다시 학습한 백 트래킹 이용
+// 200511
+// 15649 - N과 M (1)
+
+fun main() {
+    val (n, m) = readLine()!!.split(" ").map{ it.toInt() }
+    val answer = Array(m){ 0 }
+
+    fun isPossible(level: Int): Boolean {
+        for(i in 0 until level) {
+            if(answer[level] == answer[i]) return false
+        }
+        return true
+    }
+
+    fun backTracking(level: Int) {
+        if(level == m) {
+            for(i in answer) print("$i ")
+            println()
+        } else {
+            for(i in 1 .. n) {
+                answer[level] = i
+                if(isPossible(level)) backTracking(level + 1)
+            }
+        }
+
+    }
+
+    backTracking(0)
+
+}
+
+
+// 처음 시도했던 백 트래킹
 // 200416
 // 15649 - N과 M (1)
 
@@ -12,7 +46,7 @@ import java.io.OutputStreamWriter
 // DFS 익히는 용도..
 // 백트래킹.. 어렵다..
 
-fun main() {
+/*fun main() {
     val br = BufferedReader(InputStreamReader(System.`in`))
     val bw = BufferedWriter(OutputStreamWriter(System.out))
     val builder = StringBuilder()
@@ -49,4 +83,4 @@ fun main() {
     dfs(n, m, 0)
     bw.write(builder.toString())
     bw.flush()
-}
+}*/
