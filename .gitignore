@@ -1,9 +1,7 @@
-# Project exclude paths
-/out/
-algorithm_from_2021/.idea/.name
-algorithm_from_2021/.idea/misc.xml
-algorithm_from_2021/.idea/vcs.xml
-algorithm_from_2021/.idea/jarRepositories.xml
-algorithm_from_2021/.idea/gradle.xml
-algorithm_from_2021/.idea/compiler.xml
-*.class
+/.idea/
+/untitiled/
+/algorithm_from_2021/.idea/
+/algorithm_from_2021/.gradle/
+/algorithm_from_2021/gradle/
+/algorithm_from_2021/build/
+
