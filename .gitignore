@@ -6,3 +6,4 @@ algorithm_from_2021/.idea/vcs.xml
 algorithm_from_2021/.idea/jarRepositories.xml
 algorithm_from_2021/.idea/gradle.xml
 algorithm_from_2021/.idea/compiler.xml
+*.class
