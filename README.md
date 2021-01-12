@@ -16,4 +16,4 @@
 ### 2. Ryute 님의 BOJ 길라집이 문제풀이
 - 기간 : 2021.01.12 ~ 진행 중
 - [Ryute 님의 블로그]() 에 제공 되어있는 순서대로 개념 학습 + 문제풀이 진행
-- [코드 이동](algorithm_from_2021/src/main/kotlin/ryute_tistory_com_33)
+- [코드 이동](algorithm_from_2021/src/main/kotlin/ryute)
