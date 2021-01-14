@@ -18,9 +18,9 @@
 
 문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
 :---: | :---: | :---: | 
-1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [2021.01.12](/topic01/sub01/문제01_1920_수_찾기.kt)
-2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [2021.01.12](/topic01/sub01/문제02_2750_수_정렬하기.kt)
-2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) |
+1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [2021.01.12](topic01/sub01/문제01_1920_수_찾기.kt)
+2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [2021.01.12](topic01/sub01/문제02_2750_수_정렬하기.kt)
+2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [2021.01.14](topic01/sub01/문제03_2751_수_정렬하기_2.kt)
 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | 
 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | 
 
