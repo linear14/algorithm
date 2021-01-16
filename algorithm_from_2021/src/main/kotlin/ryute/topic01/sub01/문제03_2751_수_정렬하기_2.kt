@@ -19,6 +19,7 @@ private fun solution01() {
     list.forEach { println(it) }
 }
 
+/*** 정답 코드 ***/
 private fun solution02() {
     val n = readLine()!!.toInt()
     val list = mutableListOf<Int>()
