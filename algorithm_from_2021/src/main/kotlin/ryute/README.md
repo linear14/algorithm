@@ -31,7 +31,7 @@
 10828 | [스택](https://www.acmicpc.net/problem/10828) | [2021.01.18](topic01/sub02/문제01_10828_스택.kt)
 10845 | [큐](https://www.acmicpc.net/problem/10845) | [2021.01.18](topic01/sub02/문제02_10845_큐.kt)
 10866 | [덱](https://www.acmicpc.net/problem/10866) | [2021.01.19](topic01/sub02/문제03_10866_덱.kt)
-1406 | [에디터](https://www.acmicpc.net/problem/1406) | 
+1406 | [에디터](https://www.acmicpc.net/problem/1406) | [2021.01.20](topic01/sub02/문제04_1406_에디터.kt)
 
 - 탐색과 정렬 (2)
 
