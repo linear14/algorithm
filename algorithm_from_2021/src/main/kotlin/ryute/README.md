@@ -38,7 +38,7 @@
 문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
 :---: | :---: | :---: | 
 1026 | [보물](https://www.acmicpc.net/problem/1026) | [2021.01.21](topic01/sub03/문제01_1026_보물.kt)
-1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | 
+1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [2021.01.22](topic01/sub03/문제02_1181_단어_정렬.kt)
 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) |
 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | 
 10867 | [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) | 
