@@ -42,7 +42,7 @@
 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [2021.01.22](topic01/sub03/문제03_11650_좌표_정렬하기.kt)
 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [2021.01.24](topic01/sub03/문제04_11651_좌표_정렬하기_2.kt)
 10867 | [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) | [2021.01.24](topic01/sub03/문제05_10867_중복_빼고_정렬하기.kt)
-10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | 
+10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [2021.01.24](topic01/sub03/문제06_10816_숫자_카드_2.kt)
 
 - 기초 자료구조 (2)
 
