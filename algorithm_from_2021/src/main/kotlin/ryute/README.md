@@ -49,7 +49,7 @@
 문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
 :---: | :---: | :---: | 
 9012 | [괄호](https://www.acmicpc.net/problem/9012) | [2021.01.25](topic01/sub04/문제01_9012_괄호.kt)
-1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | 
+1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | [2021.01.25](topic01/sub04/문제02_1874_스택_수열.kt)
 1158 | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) |
 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966) | 
 5430 | [AC](https://www.acmicpc.net/problem/5430) | 
