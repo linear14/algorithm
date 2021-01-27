@@ -50,6 +50,6 @@
 :---: | :---: | :---: | 
 9012 | [괄호](https://www.acmicpc.net/problem/9012) | [2021.01.25](topic01/sub04/문제01_9012_괄호.kt)
 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | [2021.01.25](topic01/sub04/문제02_1874_스택_수열.kt)
-1158 | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) |
+1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [2021.01.27](topic01/sub04/문제03_1158_요세푸스_문제.kt)
 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966) | 
 5430 | [AC](https://www.acmicpc.net/problem/5430) | 
