@@ -60,7 +60,7 @@
 
 문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
 :---: | :---: | :---: | 
-6603 | [로또](https://www.acmicpc.net/problem/6603) | 
+6603 | [로또](https://www.acmicpc.net/problem/6603) | [2021.02.07](topic02/sub01/문제01_6603_로또.kt)
 1182 | [부분집합의 합](https://www.acmicpc.net/problem/1182) | 
 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 
 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | 
