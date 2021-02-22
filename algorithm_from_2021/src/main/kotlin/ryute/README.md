@@ -63,7 +63,7 @@
 6603 | [로또](https://www.acmicpc.net/problem/6603) | [2021.02.07](topic02/sub01/문제01_6603_로또.kt)
 1182 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | 
 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [2021.02.21](topic02/sub01/문제03_9095_1,2,3더하기.kt)
-9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | 
+9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | [2021.02.22](topic02/sub01/문제04_9663_N-Queen.kt)
 
 - 기초 수학 (1)
 
