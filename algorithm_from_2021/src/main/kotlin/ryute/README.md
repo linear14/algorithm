@@ -69,7 +69,7 @@
 
 문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
 :---: | :---: | :---: | 
-1037 | [약수](https://www.acmicpc.net/problem/1037) | 
+1037 | [약수](https://www.acmicpc.net/problem/1037) | [2021.02.26](topic02/sub02/문제01_1037_약수.kt)
 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | 
 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | 
 2609 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | 
