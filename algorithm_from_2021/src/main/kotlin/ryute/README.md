@@ -71,7 +71,7 @@
 :---: | :---: | :---: | 
 1037 | [약수](https://www.acmicpc.net/problem/1037) | [2021.02.26](topic02/sub02/문제01_1037_약수.kt)
 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [2021.02.27](topic02/sub02/문제02_1978_소수_찾기.kt)
-1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | 
+1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [2021.03.04](topic02/sub02/문제03_1929_소수_구하기.kt)
 2609 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | 
 
 - 백트래킹 (2)
