@@ -84,7 +84,7 @@
 문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
 :---: | :---: | :---: | 
 14889 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | [2021.03.07](topic02/sub03/문제01_14889_스타트와_링크.kt)
-15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | 
+15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | [2021.03.08](topic02/sub03/문제02_15686_치킨_배달.kt)
 2661 | [좋은수열](https://www.acmicpc.net/problem/2661) | 
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | 
 
