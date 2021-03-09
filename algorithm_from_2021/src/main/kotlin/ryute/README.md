@@ -92,7 +92,7 @@
 
 문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
 :---: | :---: | :---: | 
-2485 | [가로수](https://www.acmicpc.net/problem/2485) | 
+2485 | [가로수](https://www.acmicpc.net/problem/2485) | [2021.03.09](topic02/sub04/문제01_2485_가로수.kt)
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | 
 6588 | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | 
 15711 | [환상의 짝꿍](https://www.acmicpc.net/problem/15711) | 
