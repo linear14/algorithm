@@ -86,7 +86,7 @@
 14889 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | [2021.03.07](topic02/sub03/문제01_14889_스타트와_링크.kt)
 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | [2021.03.08](topic02/sub03/문제02_15686_치킨_배달.kt)
 2661 | [좋은수열](https://www.acmicpc.net/problem/2661) | [2021.03.08](topic02/sub03/문제03_2661_좋은수열.kt)
-2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | 
+2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | [2021.03.11](topic02/sub03/문제04_2580_스도쿠.kt)
 
 - 기초 수학 (2)
 
