@@ -97,3 +97,48 @@
 6588 | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | [2021.03.17](topic02/sub04/문제03_6588_골드바흐의_추측.kt)
 15711 | [환상의 짝꿍](https://www.acmicpc.net/problem/15711) | 
 1016 | [제곱 ㄴㄴ수](https://www.acmicpc.net/problem/1016) | 
+
+
+#### 소주제 3
+- DFS와 BFS (1)
+
+문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
+:---: | :---: | :---: | 
+1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [2021.04.09](topic03/sub01/문제01_1260_DFS와_BFS.kt)
+2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 
+1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | 
+2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | 
+2606 | [바이러스](https://www.acmicpc.net/problem/2606) | 
+
+- 기초 다이나믹 프로그래밍 (1)
+
+문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
+:---: | :---: | :---: | 
+1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | 
+1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | 
+2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | 
+1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | 
+1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | 
+
+- DFS와 BFS (2)
+
+문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
+:---: | :---: | :---: | 
+2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 
+7576 | [토마토](https://www.acmicpc.net/problem/7576) | 
+7569 | [토마토](https://www.acmicpc.net/problem/7569) | 
+9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | 
+2636 | [치즈](https://www.acmicpc.net/problem/2636) | 
+2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | 
+
+- 기초 다이나믹 프로그래밍 (2)
+
+문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
+:---: | :---: | :---: | 
+11726 | [2xn 타일링](https://www.acmicpc.net/problem/11726) | 
+11727 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | 
+1912 | [연속합](https://www.acmicpc.net/problem/1912) | 
+2293 | [동전](https://www.acmicpc.net/problem/2293) | 
+2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | 
+11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | 
+11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 
