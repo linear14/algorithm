@@ -105,7 +105,7 @@
 문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
 :---: | :---: | :---: | 
 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [2021.04.09](topic03/sub01/문제01_1260_DFS와_BFS.kt)
-2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 
+2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | [2021.04.12](topic03/sub01/문제02_2667_단지번호붙이기.kt)
 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | 
 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | 
 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | 
