@@ -107,7 +107,8 @@
 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [2021.04.09](topic03/sub01/문제01_1260_DFS와_BFS.kt)
 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | [2021.04.12](topic03/sub01/문제02_2667_단지번호붙이기.kt)
 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [2021.04.15](topic03/sub01/문제03_1697_숨바꼭질.kt)
-2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | 
+2178(1) | [미로 탐색](https://www.acmicpc.net/problem/2178) | [2021.04.16](topic03/sub01/문제04_2178_미로_탐색.kt)
+2178(2) | [미로 탐색](https://www.acmicpc.net/problem/2178) | [2021.04.16](topic03/sub01/문제04(2)_2178_미로_탐색.kt)
 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | 
 
 - 기초 다이나믹 프로그래밍 (1)
