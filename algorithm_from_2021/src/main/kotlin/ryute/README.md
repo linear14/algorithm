@@ -118,7 +118,7 @@
 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [2021.04.18](topic03/sub02/문제01_1003_피보나치_함수.kt)
 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [2021.04.19](topic03/sub02/문제02_1463_1로_만들기.kt)
 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | [2021.04.24](topic03/sub02/문제03_2579_계단_오르기.kt)
-1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | 
+1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [2021.04.24](topic03/sub02/문제04_1932_정수_삼각형.kt)
 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | 
 
 - DFS와 BFS (2)
