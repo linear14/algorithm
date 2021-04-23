@@ -119,7 +119,7 @@
 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [2021.04.19](topic03/sub02/문제02_1463_1로_만들기.kt)
 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | [2021.04.24](topic03/sub02/문제03_2579_계단_오르기.kt)
 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [2021.04.24](topic03/sub02/문제04_1932_정수_삼각형.kt)
-1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | 
+1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | [2021.04.24](topic03/sub02/문제05_1149_RGB거리.kt)
 
 - DFS와 BFS (2)
 
