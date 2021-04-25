@@ -126,7 +126,7 @@
 문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
 :---: | :---: | :---: | 
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 
-7576 | [토마토](https://www.acmicpc.net/problem/7576) | 
+7576 | [토마토](https://www.acmicpc.net/problem/7576) | [2021.04.25](topic03/sub03/문제02_7576_토마토.kt)
 7569 | [토마토](https://www.acmicpc.net/problem/7569) | 
 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | 
 2636 | [치즈](https://www.acmicpc.net/problem/2636) | 
