@@ -127,7 +127,7 @@
 :---: | :---: | :---: | 
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 
 7576 | [토마토](https://www.acmicpc.net/problem/7576) | [2021.04.25](topic03/sub03/문제02_7576_토마토.kt)
-7569 | [토마토](https://www.acmicpc.net/problem/7569) | 
+7569 | [토마토](https://www.acmicpc.net/problem/7569) | [2021.04.26](topic03/sub03/문제03_7569_토마토.kt)
 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | 
 2636 | [치즈](https://www.acmicpc.net/problem/2636) | 
 2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | 
