@@ -130,7 +130,8 @@
 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [2021.04.26](topic03/sub03/문제03_7569_토마토.kt)
 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | 
 2636 | [치즈](https://www.acmicpc.net/problem/2636) | [2021.04.27](topic03/sub03/문제05_2636_치즈.kt)
-2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | 
+2583(1) | [영역 구하기](https://www.acmicpc.net/problem/2583) | [2021.04.27](topic03/sub03/문제06(1)_2583_영역_구하기.kt)
+2583(2) | [영역 구하기](https://www.acmicpc.net/problem/2583) | [2021.04.27](topic03/sub03/문제06(2)_2583_영역_구하기.kt)
 
 - 기초 다이나믹 프로그래밍 (2)
 
