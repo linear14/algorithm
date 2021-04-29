@@ -139,7 +139,7 @@
 :---: | :---: | :---: | 
 11726 | [2xn 타일링](https://www.acmicpc.net/problem/11726) | [2021.04.28](topic03/sub04/문제01_11726_2xn_타일링.kt)
 11727 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | [2021.04.28](topic03/sub04/문제02_11727_2xn_타일링_2.kt)
-1912 | [연속합](https://www.acmicpc.net/problem/1912) | 
+1912 | [연속합](https://www.acmicpc.net/problem/1912) | [2021.04.29](topic03/sub04/문제03_1912_연속합.kt)
 2293 | [동전](https://www.acmicpc.net/problem/2293) | 
 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | 
 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | 
