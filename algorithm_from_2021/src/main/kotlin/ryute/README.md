@@ -144,3 +144,45 @@
 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [2021.04.30](topic03/sub04/문제05_2156_포도주_시식.kt) 
 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | [2021.04.30](topic03/sub04/문제06_11052_카드_구매하기.kt) 
 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 
+
+
+#### 소주제 4
+- 그리디 알고리즘 (1)
+
+문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
+:---: | :---: | :---: | 
+11047 | [동전 0](https://www.acmicpc.net/problem/11047) |
+1931 | [회의실배정](https://www.acmicpc.net/problem/1931) | 
+2217 | [로프](https://www.acmicpc.net/problem/2217) | 
+2529 | [부등호](https://www.acmicpc.net/problem/2529) |
+
+
+- 파라메트릭 서치 (1)
+
+문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
+:---: | :---: | :---: | 
+2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | 
+1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) |
+2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) |
+2512 | [예산](https://www.acmicpc.net/problem/2512) | 
+2110 | [공유기 설치](https://www.acmicpc.net/problem/2110) | 
+
+- 힙
+
+문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
+:---: | :---: | :---: | 
+1927 | [최소 힙](https://www.acmicpc.net/problem/1927) | 
+11279 | [최대 힙](https://www.acmicpc.net/problem/11279) | 
+11286 | [절댓값 힙](https://www.acmicpc.net/problem/11286) | 
+1715 | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 
+1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | 
+
+- 그리디 알고리즘 (2)
+
+문제번호 | 문제이름 (링크_문제) | 완료일 (링크_코드) 
+:---: | :---: | :---: | 
+1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | 
+9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | 
+13305 | [주유소](https://www.acmicpc.net/problem/13305) | 
+1826 | [연료 채우기](https://www.acmicpc.net/problem/1826) | 
+1422 | [숫자의 신](https://www.acmicpc.net/problem/1422) | 
