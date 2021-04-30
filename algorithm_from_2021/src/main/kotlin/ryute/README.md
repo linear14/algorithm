@@ -154,7 +154,7 @@
 11047 | [동전 0](https://www.acmicpc.net/problem/11047) | [2021.05.01](topic04/sub01/문제01_11047_동전_0.kt)
 1931 | [회의실배정](https://www.acmicpc.net/problem/1931) | 
 2217 | [로프](https://www.acmicpc.net/problem/2217) | [2021.05.01](topic04/sub01/문제03_2217_로프.kt)
-2529 | [부등호](https://www.acmicpc.net/problem/2529) |
+2529(1) | [부등호](https://www.acmicpc.net/problem/2529) |[2021.05.01](topic04/sub01/문제04(1)_2529_부등호.kt)
 
 
 - 파라메트릭 서치 (1)
