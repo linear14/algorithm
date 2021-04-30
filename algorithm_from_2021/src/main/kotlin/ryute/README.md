@@ -142,5 +142,5 @@
 1912 | [연속합](https://www.acmicpc.net/problem/1912) | [2021.04.29](topic03/sub04/문제03_1912_연속합.kt)
 2293 | [동전 1](https://www.acmicpc.net/problem/2293) | [2021.04.30](topic03/sub04/문제04_2293_동전_1.kt) 
 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [2021.04.30](topic03/sub04/문제05_2156_포도주_시식.kt) 
-11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | 
+11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | [2021.04.30](topic03/sub04/문제06_11052_카드_구매하기.kt) 
 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 
