@@ -17,3 +17,4 @@
 14500 | [테트로미노](https://www.acmicpc.net/problem/14500) | [2021.09.10](14500_테트로미노.kt) | 브루트포스 |
 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [2021.09.13](2470_두_용액.kt) | |
 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [2021.09.14](12865_평범한_배낭.kt) | DP 0-1 knapsack | 
+2644 | [촌수계산](https://www.acmicpc.net/problem/2644) | [2021.09.28](2644_촌수계산.kt) | BFS | 
