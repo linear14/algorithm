@@ -18,3 +18,4 @@
 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [2021.09.13](2470_두_용액.kt) | |
 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [2021.09.14](12865_평범한_배낭.kt) | DP 0-1 knapsack | 
 2644 | [촌수계산](https://www.acmicpc.net/problem/2644) | [2021.09.28](2644_촌수계산.kt) | BFS | 
+1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | [2021.09.30](1261_알고스팟.kt) | 다익스트라 | 
