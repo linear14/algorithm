@@ -20,3 +20,4 @@
 2644 | [촌수계산](https://www.acmicpc.net/problem/2644) | [2021.09.28](2644_촌수계산.kt) | BFS | 
 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | [2021.09.30](1261_알고스팟.kt) | 다익스트라 | 
 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | [2021.10.05](1655_가운데를_말해요.kt) | 우선순위 큐 |
+5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | [2021.10.06](5014_스타트링크.kt) | BFS |
