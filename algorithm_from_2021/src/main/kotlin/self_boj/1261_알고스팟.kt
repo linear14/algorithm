@@ -21,6 +21,9 @@ private fun main() {
         val cur = pq.poll()
         visited[cur.r][cur.c] = true
 
+        // 생각해봤는데, 만약 내가 체크할 다음 지점을 이미 방문했을 경우라면 해당 영역은 또 다시 체크 안해도 된다.
+        // 왜냐하면, 다음 지점을 방문했다는 소리는 현재 지점보다 결과값이 무조건 작을 수 밖에 없다는 뜻이기 때문이다.
+
         for(i in 0 until 4) {
             val nr = cur.r + dy[i]
             val nc = cur.c + dx[i]
