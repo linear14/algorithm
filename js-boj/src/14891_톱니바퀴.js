@@ -35,29 +35,18 @@ const sol = () => {
 }
 
 const compare = (target, isClockWise, isLeft) => {
-  // const next = [];
   const [tl, tr] = [arr[target - 1][6], arr[target -1][2]];
 
   // 왼쪽이랑 비교 가능
   if(isLeft && target !== 1 && tl !== arr[target - 2][2]) {
-    // rotate(target - 1, !rotationDir);
     compare(target - 1, !isClockWise, true);
     rotationInfo.push([target - 1, !isClockWise])
-    // next.push([target - 1, !rotationDir]);
-    // excepts.add(target - 1);
   }
   // 오른쪽이랑 비교 가능
   if(!isLeft && target !== 4 && tr !== arr[target][6]) {
-    // rotate(target + 1, !rotationDir);
     compare(target + 1, !isClockWise, false);
     rotationInfo.push([target + 1, !isClockWise])
-    // next.push([target + 1, !rotationDir]);
-    // excepts.add(target + 1);
   }
-
-  // rotate(target, rotationDir);
-  // excepts.add(target);
-  // return next;
 }
 
 const rotate = (target, isClockWise) => {
