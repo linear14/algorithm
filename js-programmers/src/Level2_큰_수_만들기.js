@@ -1,3 +1,4 @@
+// 처음 시도했던 방식 (시간초과)
 // const solution = (number, k) => {
 //   const arr = number.split('');
 //   let fromBack = false;
@@ -22,6 +23,7 @@
 //   return arr.join('');
 // }
 
+// J138_이광민 님의 도움을 받았습니다..!
 const solution = (number, k) => {
   const s = [];
   for(let i = 0; i < number.length; i++) {
