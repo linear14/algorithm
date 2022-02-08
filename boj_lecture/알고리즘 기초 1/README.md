@@ -11,7 +11,7 @@
 | 티어 | 문제번호 | 문제 | 완료일 | 언어 | 비고 |
 | :--: | :------: | :-- | :----: | :--: | :-- |
 | S4 | 10828 | [스택](https://www.acmicpc.net/problem/10828) | [22.02.07 (월)](./10828_스택) | JS | |
-| B1 | 9093 | [단어 뒤집기](https://www.acmicpc.net/problem/9093) | | | |
+| B1 | 9093 | [단어 뒤집기](https://www.acmicpc.net/problem/9093) | [22.02.08 (화)](./9093_단어_뒤집기) | JS | |
 | S4 | 9012 | [괄호](https://www.acmicpc.net/problem/9012) | | | |
 | S3 | 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | | | |
 |  |  | [에디터](https://www.acmicpc.net/problem/) | | | |
