@@ -15,7 +15,7 @@
 | S4 | 9012 | [괄호](https://www.acmicpc.net/problem/9012) | [22.02.08 (화)](./9012_괄호) | JS | |
 | S3 | 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | [22.02.08 (화)](./1874_스택_수열) | JS | |
 | S3 | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | [22.02.08 (화)](./1406_에디터)| JS | |
-|  |  | [큐](https://www.acmicpc.net/problem/) | | | |
+| S4 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | [22.02.09 (수)](./10845_큐) | JS | |
 |  |  | [조세퍼스 문제](https://www.acmicpc.net/problem/) | | | |
 |  |  | [덱](https://www.acmicpc.net/problem/) | | | |
 |  |  | [단어 뒤집기 2](https://www.acmicpc.net/problem/) | | | |
