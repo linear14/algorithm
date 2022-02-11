@@ -17,7 +17,7 @@
 | S3 | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | [22.02.08 (화)](./1406_에디터)| JS | |
 | S4 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | [22.02.09 (수)](./10845_큐) | JS | |
 | S5 | 1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [22.02.10 (목)](./1158_요세푸스_문제) | JS | |
-|  |  | [덱](https://www.acmicpc.net/problem/) | | | |
+| S4 | 10866 | [덱](https://www.acmicpc.net/problem/10866) | [22.02.11 (금)](./10866_덱) | JS | |
 |  |  | [단어 뒤집기 2](https://www.acmicpc.net/problem/) | | | |
 |  |  | [쇠막대기](https://www.acmicpc.net/problem/) | | | |
 |  |  | [오큰수](https://www.acmicpc.net/problem/) | | | |
