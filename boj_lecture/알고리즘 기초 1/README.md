@@ -21,7 +21,7 @@
 | S3 | 17413 | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | [22.02.11 (금)](./17413_단어_뒤집기_2) | JS | |
 | S3 | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [22.02.11 (금)](./10799_쇠막대기) | JS | |
 | G4 | 17298 | [오큰수](https://www.acmicpc.net/problem/17298) | [22.02.12 (토)](./17298_오큰수) | JS | |
-|  |  | [오등큰수](https://www.acmicpc.net/problem/) | | | |
+| G3 | 17299 | [오등큰수](https://www.acmicpc.net/problem/17299) | [22.02.12 (토)](./17299_오등큰수) | JS | |
 |  |  | [후위 표기식2](https://www.acmicpc.net/problem/) | | | |
 |  |  | [후위 표기식](https://www.acmicpc.net/problem/) | | | |
 |  |  | [알파벳 개수](https://www.acmicpc.net/problem/) | | | |
