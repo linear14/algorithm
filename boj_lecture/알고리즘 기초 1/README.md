@@ -23,7 +23,7 @@
 | G4 | 17298 | [오큰수](https://www.acmicpc.net/problem/17298) | [22.02.12 (토)](./17298_오큰수) | JS | |
 | G3 | 17299 | [오등큰수](https://www.acmicpc.net/problem/17299) | [22.02.12 (토)](./17299_오등큰수) | JS | |
 | S3 | 1935 | [후위 표기식2](https://www.acmicpc.net/problem/1935) | [22.02.12 (토)](./1935_후위_표기식2) | JS | |
-|  |  | [후위 표기식](https://www.acmicpc.net/problem/) | | | |
+| G3 | 1918 | [후위 표기식](https://www.acmicpc.net/problem/1918) | [22.02.13 (일)](./1918_후위_표기식) | JS | |
 |  |  | [알파벳 개수](https://www.acmicpc.net/problem/) | | | |
 |  |  | [알파벳 찾기](https://www.acmicpc.net/problem/) | | | |
 |  |  | [문자열 분석](https://www.acmicpc.net/problem/) | | | |
