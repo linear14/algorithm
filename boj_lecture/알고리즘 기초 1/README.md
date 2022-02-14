@@ -24,9 +24,9 @@
 | G3 | 17299 | [오등큰수](https://www.acmicpc.net/problem/17299) | [22.02.12 (토)](./17299_오등큰수) | JS | |
 | S3 | 1935 | [후위 표기식2](https://www.acmicpc.net/problem/1935) | [22.02.12 (토)](./1935_후위_표기식2) | JS | |
 | G3 | 1918 | [후위 표기식](https://www.acmicpc.net/problem/1918) | [22.02.13 (일)](./1918_후위_표기식) | JS | |
-|  |  | [알파벳 개수](https://www.acmicpc.net/problem/) | | | |
 |  |  | [알파벳 찾기](https://www.acmicpc.net/problem/) | | | |
 |  |  | [문자열 분석](https://www.acmicpc.net/problem/) | | | |
+| B2 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [22.02.14 (월)](./10808_알파벳_개수) | JS | |
 |  |  | [단어 길이 재기](https://www.acmicpc.net/problem/) | | | |
 |  |  | [ROT13](https://www.acmicpc.net/problem/) | | | |
 |  |  | [네 수](https://www.acmicpc.net/problem/) | | | |
