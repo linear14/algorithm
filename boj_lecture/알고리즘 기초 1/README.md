@@ -28,9 +28,9 @@
 | B2 | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [22.02.14 (월)](./10809_알파벳_찾기) | JS | |
 | B2 | 10820 | [문자열 분석](https://www.acmicpc.net/problem/10820) | [22.02.14 (월)](./10820_문자열_분석) | JS | |
 |  |  | [ROT13](https://www.acmicpc.net/problem/) | | | |
-|  |  | [네 수](https://www.acmicpc.net/problem/) | | | |
 |  |  | [접미사 배열](https://www.acmicpc.net/problem/) | | | |
 | B2 | 2743 | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [22.02.15 (화)](./2743_단어_길이_재기/) | JS | |
+| B3 | 10824 | [네 수](https://www.acmicpc.net/problem/10824) | [22.02.15 (화)](./10824_네_수/) | JS | |
 
 ### 수학 1
 
