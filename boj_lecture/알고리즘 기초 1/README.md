@@ -36,8 +36,8 @@
 
 | 티어 | 문제번호 | 문제 | 완료일 | 언어 | 비고 |
 | :--: | :------: | :-- | :----: | :--: | :-- |
-|  |  | [나머지](https://www.acmicpc.net/problem/) | | | |
 |  |  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/) | | | |
+| B5 | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [22.02.16 (수)](./10430_나머지/)| JS | |
 |  |  | [최소공배수](https://www.acmicpc.net/problem/) | | | |
 |  |  | [소수 찾기](https://www.acmicpc.net/problem/) | | | |
 |  |  | [소수 구하기](https://www.acmicpc.net/problem/) | | | |
