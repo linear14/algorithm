@@ -38,9 +38,9 @@
 | :--: | :------: | :-- | :----: | :--: | :-- |
 | B5 | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [22.02.16 (수)](./10430_나머지/) | JS | |
 | S5 | 2609 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [22.02.16 (수)](./2609_최대공약수와_최소공배수/) | JS | |
-|  |  | [소수 구하기](https://www.acmicpc.net/problem/) | | | |
 | S5 | 1934 | [최소공배수](https://www.acmicpc.net/problem/1934) | [22.02.17 (목)](./1934_최소공배수/) | JS | |
 | S4 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [22.02.17 (목)](./1978_소수_찾기/) | JS | |
+| S2 | 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [22.02.17 (목)](./1929_소수_구하기/) | JS | |
 |  |  | [골드바흐의 추측](https://www.acmicpc.net/problem/) | | | |
 |  |  | [팩토리얼](https://www.acmicpc.net/problem/) | | | |
 |  |  | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/) | | | |
