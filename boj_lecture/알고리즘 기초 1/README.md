@@ -41,10 +41,10 @@
 | S5 | 1934 | [최소공배수](https://www.acmicpc.net/problem/1934) | [22.02.17 (목)](./1934_최소공배수/) | JS | |
 | S4 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [22.02.17 (목)](./1978_소수_찾기/) | JS | |
 | S2 | 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [22.02.17 (목)](./1929_소수_구하기/) | JS | |
-|  |  | [팩토리얼](https://www.acmicpc.net/problem/) | | | |
 |  |  | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/) | | | |
 |  |  | [조합 0의 개수](https://www.acmicpc.net/problem/) | | | |
 | S1 | 6588 | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | [22.02.18 (금)](./6588_골드바흐의_추측/) | JS | |
+| B3 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [22.02.19 (토)](./10872_팩토리얼/)| JS | |
 |  |  | [GCD 합](https://www.acmicpc.net/problem/) | | | |
 |  |  | [숨바꼭질 6](https://www.acmicpc.net/problem/) | | | |
 |  |  | [2진수 8진수](https://www.acmicpc.net/problem/) | | | |
