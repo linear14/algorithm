@@ -65,7 +65,7 @@
 | S3 | 11727 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | [22.02.20 (일)](./11727_2xn_타일링_2/) | JS | |
 | S3 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [22.02.20 (일)](./9095_1,2,3_더하기/) | JS | |
 | S1 | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | [22.02.20 (일)](./11052_카드_구매하기/) | JS | |
-|  |  | [카드 구매하기 2](https://www.acmicpc.net/problem/) | | | |
+| S1 | 16194 | [카드 구매하기 2](https://www.acmicpc.net/problem/16194) | [22.02.21 (월)](./16194_카드_구매하기_2/) | JS | |
 |  |  | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/) | | | |
 |  |  | [쉬운 계단 수](https://www.acmicpc.net/problem/) | | | |
 |  |  | [이친수](https://www.acmicpc.net/problem/) | | | |
