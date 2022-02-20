@@ -60,7 +60,7 @@
 
 | 티어 | 문제번호 | 문제 | 완료일 | 언어 | 비고 |
 | :--: | :------: | :-- | :----: | :--: | :-- |
-|  |  | [1로 만들기](https://www.acmicpc.net/problem/) | | | |
+| S3 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [22.02.20 (일)](./1463_1로_만들기/) | JS | |
 |  |  | [2xn 타일링](https://www.acmicpc.net/problem/) | | | |
 |  |  | [2xn 타일링 2](https://www.acmicpc.net/problem/) | | | |
 |  |  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/) | | | |
