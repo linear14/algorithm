@@ -61,8 +61,8 @@
 | 티어 | 문제번호 | 문제 | 완료일 | 언어 | 비고 |
 | :--: | :------: | :-- | :----: | :--: | :-- |
 | S3 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [22.02.20 (일)](./1463_1로_만들기/) | JS | |
-|  |  | [2xn 타일링](https://www.acmicpc.net/problem/) | | | |
 |  |  | [2xn 타일링 2](https://www.acmicpc.net/problem/) | | | |
+| S3 | 11726 | [2xn 타일링](https://www.acmicpc.net/problem/11726) | [22.02.20 (일)](./11726_2xn_타일링/) | JS | |
 |  |  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/) | | | |
 |  |  | [카드 구매하기](https://www.acmicpc.net/problem/) | | | |
 |  |  | [카드 구매하기 2](https://www.acmicpc.net/problem/) | | | |
