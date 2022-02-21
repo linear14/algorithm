@@ -67,7 +67,7 @@
 | S1 | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | [22.02.20 (일)](./11052_카드_구매하기/) | JS | |
 | S1 | 16194 | [카드 구매하기 2](https://www.acmicpc.net/problem/16194) | [22.02.21 (월)](./16194_카드_구매하기_2/) | JS | |
 | S2 | 15990 | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) | [22.02.21 (월)](./15990_1,2,3_더하기_5/) | JS | |
-|  |  | [쉬운 계단 수](https://www.acmicpc.net/problem/) | | | |
+| S1 | 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [22.02.21 (월)](./10844_쉬운_계단_수/) | JS | |
 |  |  | [이친수](https://www.acmicpc.net/problem/) | | | |
 |  |  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/) | | | |
 |  |  | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/) | | | |
