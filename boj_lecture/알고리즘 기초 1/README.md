@@ -69,7 +69,7 @@
 | S2 | 15990 | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) | [22.02.21 (월)](./15990_1,2,3_더하기_5/) | JS | |
 | S1 | 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [22.02.21 (월)](./10844_쉬운_계단_수/) | JS | |
 | S3 | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | [22.02.21 (월)](./2193_이친수/) | JS | |
-|  |  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/) | | | |
+| S2 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [22.02.22 (화)](./11053_가장_긴_증가하는_부분_수열/) | JS | |
 |  |  | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/) | | | |
 |  |  | [연속합](https://www.acmicpc.net/problem/) | | | |
 |  |  | [제곱수의 합](https://www.acmicpc.net/problem/) | | | |
