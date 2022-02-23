@@ -70,7 +70,7 @@
 | S1 | 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [22.02.21 (월)](./10844_쉬운_계단_수/) | JS | |
 | S3 | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | [22.02.21 (월)](./2193_이친수/) | JS | |
 | S2 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [22.02.22 (화)](./11053_가장_긴_증가하는_부분_수열/) | JS | |
-|  |  | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/) | | | |
+| G4 | 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | [22.02.23 (수)](./14002_가장_긴_증가하는_부분_수열_4/) | JS | |
 |  |  | [연속합](https://www.acmicpc.net/problem/) | | | |
 |  |  | [제곱수의 합](https://www.acmicpc.net/problem/) | | | |
 |  |  | [합분해](https://www.acmicpc.net/problem/) | | | |
@@ -87,3 +87,11 @@
 |  |  | [연속합 2](https://www.acmicpc.net/problem/) | | | |
 |  |  | [타일 채우기](https://www.acmicpc.net/problem/) | | | |
 |  |  | [RGB거리 2](https://www.acmicpc.net/problem/) | | | |
+
+
+## 보충 학습
+| 티어 | 문제번호 | 문제 | 완료일 | 언어 | 비고 |
+| :--: | :------: | :-- | :----: | :--: | :-- |
+|  |  | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/) | | | |
+|  |  | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/) | | | |
+|  |  | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/) | | | |
