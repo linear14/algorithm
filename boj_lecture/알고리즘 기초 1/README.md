@@ -73,7 +73,7 @@
 | G4 | 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | [22.02.23 (수)](./14002_가장_긴_증가하는_부분_수열_4/) | JS | |
 | S2 | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | [22.02.24 (목)](./1912_연속합/) | JS | |
 | S3 | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | [22.02.24 (목)](./1699_제곱수의_합/) | JS | |
-|  |  | [합분해](https://www.acmicpc.net/problem/) | | | |
+| G5 | 2225 | [합분해](https://www.acmicpc.net/problem/2225) | [22.02.25 (금)](./2225_합분해/) | JS | |
 |  |  | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/) | | | |
 |  |  | [RGB거리](https://www.acmicpc.net/problem/) | | | |
 |  |  | [동물원](https://www.acmicpc.net/problem/) | | | |
