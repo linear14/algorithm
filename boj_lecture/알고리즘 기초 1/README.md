@@ -76,7 +76,7 @@
 | G5 | 2225 | [합분해](https://www.acmicpc.net/problem/2225) | [22.02.25 (금)](./2225_합분해/) | JS | |
 | S2 | 15988 | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [22.02.25 (금)](./15988_1,2,3_더하기_3/) | JS | |
 | S1 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | [22.02.25 (금)](./1149_RGB거리/) | JS | |
-|  |  | [동물원](https://www.acmicpc.net/problem/) | | | |
+| S1 | 1309 | [동물원](https://www.acmicpc.net/problem/1309) | [22.02.25 (금)](./1309_동물원/) | JS | |
 |  |  | [오르막 수](https://www.acmicpc.net/problem/) | | | |
 |  |  | [스티커](https://www.acmicpc.net/problem/) | | | |
 |  |  | [포도주 시식](https://www.acmicpc.net/problem/) | | | |
