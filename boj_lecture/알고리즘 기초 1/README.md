@@ -75,7 +75,7 @@
 | S3 | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | [22.02.24 (목)](./1699_제곱수의_합/) | JS | |
 | G5 | 2225 | [합분해](https://www.acmicpc.net/problem/2225) | [22.02.25 (금)](./2225_합분해/) | JS | |
 | S2 | 15988 | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [22.02.25 (금)](./15988_1,2,3_더하기_3/) | JS | |
-|  |  | [RGB거리](https://www.acmicpc.net/problem/) | | | |
+| S1 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | [22.02.25 (금)](./1149_RGB거리/) | JS | |
 |  |  | [동물원](https://www.acmicpc.net/problem/) | | | |
 |  |  | [오르막 수](https://www.acmicpc.net/problem/) | | | |
 |  |  | [스티커](https://www.acmicpc.net/problem/) | | | |
