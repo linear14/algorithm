@@ -79,7 +79,7 @@
 | S1 | 1309 | [동물원](https://www.acmicpc.net/problem/1309) | [22.02.25 (금)](./1309_동물원/) | JS | |
 | S1 | 11057 | [오르막 수](https://www.acmicpc.net/problem/11057) | [22.02.26 (토)](./11057_오르막_수/) | JS | |
 | S1 | 9465 | [스티커](https://www.acmicpc.net/problem/9465) | [22.02.26 (토)](./9465_스티커/) | JS | |
-|  |  | [포도주 시식](https://www.acmicpc.net/problem/) | | | |
+| S1 | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [22.02.28 (월)](./2156_포도주_시식/) | JS | |
 |  |  | [정수 삼각형](https://www.acmicpc.net/problem/) | | | |
 |  |  | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/) | | | |
 |  |  | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/) | | | |
