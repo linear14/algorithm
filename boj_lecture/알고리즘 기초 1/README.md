@@ -83,7 +83,7 @@
 | S1 | 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [22.03.01 (화)](./1932_정수_삼각형/) | JS | |
 | S2 | 11055 | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [22.03.02 (수)](./11055_가장_큰_증가_부분_수열/) | JS | |
 | S2 | 11722 | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | [22.03.02 (수)](./11722_가장_긴_감소하는_부분_수열/) | JS | |
-|  |  | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/) | | | |
+| G3 | 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | [22.03.03 (목)](./11054_가장_긴_바이토닉_부분_수열/) | JS | |
 |  |  | [연속합 2](https://www.acmicpc.net/problem/) | | | |
 |  |  | [타일 채우기](https://www.acmicpc.net/problem/) | | | |
 |  |  | [RGB거리 2](https://www.acmicpc.net/problem/) | | | |
