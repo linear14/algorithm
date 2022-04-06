@@ -52,8 +52,8 @@
 | G5 | 13023 | [ABCDE](https://www.acmicpc.net/problem/13023) | [22.04.01 (금)](./13023_ABCDE/) | JS | 시간초과 고민 | 
 | S2 | 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [22.04.02 (토)](./1260_DFS와_BFS/) | JS | | 
 | S2 | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [22.04.02 (토)](./11724_연결_요소의_개수/) | JS | | 
-| G4 | 1707 | [이분 그래프](https://www.acmicpc.net/problem/1707) | [22.04.05 (수)](./1707_이분_그래프/) | JS | | 
-|  |  | 단지번호붙이기 | | | | 
+| G4 | 1707 | [이분 그래프](https://www.acmicpc.net/problem/1707) | [22.04.05 (화)](./1707_이분_그래프/) | JS | | 
+| S1 | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | [22.04.06 (수)](./2667_단지번호붙이기/) | JS | | 
 |  |  | 섬의 개수 | | | | 
 |  |  | 미로 탐색 | | | | 
 |  |  | 토마토 | | | | 
