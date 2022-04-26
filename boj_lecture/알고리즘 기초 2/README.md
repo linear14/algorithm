@@ -57,7 +57,7 @@
 | S2 | 4963 | [섬의 개수](https://www.acmicpc.net/problem/4963) | [22.04.08 (금)](./4963_섬의_개수/) | JS | | 
 | S1 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [22.04.21 (목)](./2178_미로_탐색/) | JS | | 
 | G5 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | [22.04.21 (목)](./7576_토마토/) | JS | | 
-|  |  | 나이트의 이동 | | | | 
+| S1 | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | [22.04.26 (화)](./7562_나이트의_이동/) | JS | | 
 | G4 | 16929 | [Two Dots](https://www.acmicpc.net/problem/16929) | [22.04.26 (화)](./16929_Two_Dots/) | JS | | 
 |  |  | 서울 지하철 2호선 | | | | 
 |  |  | BFS 스페셜 저지 | | | | 
