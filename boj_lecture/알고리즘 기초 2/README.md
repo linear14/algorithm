@@ -20,7 +20,7 @@
 | S3 | 15649 | [N과 M(1)](https://www.acmicpc.net/problem/15649) | [22.04.26 (화)](./15649_N과_M(1)/) | JS | |
 | S3 | 15650 | [N과 M(2)](https://www.acmicpc.net/problem/15650) | [22.06.11 (토)](./15650_N과_M(2)/) | JS | |
 | S3 | 15651 | [N과 M(3)](https://www.acmicpc.net/problem/15651) | [22.06.11 (토)](./15651_N과_M(3)/) | JS | |
-|  |  | N과 M(4) | | | |
+| S3 | 15652 | [N과 M(4)](https://www.acmicpc.net/problem/15652) | [22.06.11 (토)](./15652_N과_M(4)/) | JS | |
 |  |  | N과 M(5) | | | |
 |  |  | N과 M(6) | | | |
 |  |  | N과 M(7) | | | |
