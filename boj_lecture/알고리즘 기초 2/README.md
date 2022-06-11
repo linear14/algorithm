@@ -21,7 +21,7 @@
 | S3 | 15650 | [N과 M(2)](https://www.acmicpc.net/problem/15650) | [22.06.11 (토)](./15650_N과_M(2)/) | JS | |
 | S3 | 15651 | [N과 M(3)](https://www.acmicpc.net/problem/15651) | [22.06.11 (토)](./15651_N과_M(3)/) | JS | |
 | S3 | 15652 | [N과 M(4)](https://www.acmicpc.net/problem/15652) | [22.06.11 (토)](./15652_N과_M(4)/) | JS | |
-|  |  | N과 M(5) | | | |
+| S3 | 15654 | [N과 M(5)](https://www.acmicpc.net/problem/15654) | [22.06.11 (토)](./15654_N과_M(5)/) | JS | |
 |  |  | N과 M(6) | | | |
 |  |  | N과 M(7) | | | |
 |  |  | N과 M(8) | | | |
