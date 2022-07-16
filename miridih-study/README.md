@@ -20,5 +20,5 @@
 
 | 기관 | 난이도 | 문제 | 주차 (완료일) | 주제 | 비고 |
 | :--: | :------: | :-- | :----: | :--: | :-- |
-| P | Level 3 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [1주차](./P_베스트앨범) | 해시 | | 
+| P | Level 3 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [1주차 (22.07.16 토)](./P_베스트앨범/solution.js) | 해시 | | 
 | P | Level 3 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [1주차](./P_디스크_컨트롤러) | 힙 | | 
