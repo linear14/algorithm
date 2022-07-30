@@ -24,3 +24,4 @@
 | P | Level 3 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [1주차 (22.07.16 토)](./P_디스크_컨트롤러/solution1.js) | 힙 | | 
 | P | Level 2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [2주차 (22.07.22 금)](./P_프린터/solution.js) | 스택/큐 | | 
 | P | Level 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [2주차 (22.07.22 금)](./P_올바른_괄호/solution.js) | 스택/큐 | | 
+| P | Level 2 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [3주차 (22.07.30 토)](./P_가장_큰_수/solution.js) | 정렬 | | 
