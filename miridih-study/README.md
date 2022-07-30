@@ -25,3 +25,4 @@
 | P | Level 2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [2주차 (22.07.22 금)](./P_프린터/solution.js) | 스택/큐 | | 
 | P | Level 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [2주차 (22.07.22 금)](./P_올바른_괄호/solution.js) | 스택/큐 | | 
 | P | Level 2 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [3주차 (22.07.30 토)](./P_가장_큰_수/solution.js) | 정렬 | | 
+| P | Level 2 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [3주차 (22.07.30 토)](./P_전력망을_둘로_나누기/solution.js) | 완전탐색 | | 
