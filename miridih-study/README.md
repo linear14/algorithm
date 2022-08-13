@@ -28,3 +28,4 @@
 | P | Level 2 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [3주차 (22.07.30 토)](./P_전력망을_둘로_나누기/solution.js) | 완전탐색 | | 
 | P | Level 3 | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [4주차 (22.08.04 목)](./P_단속카메라/solution.js) | 그리디 | | 
 | P | Level 2 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [5주차 (22.08.08 월)](./P_게임_맵_최단거리/solution.js) | DFS/BFS | | 
+| P | Level 3 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | [5주차 (22.08.13 일)](./P_아이템_줍기/solution.js) | DFS/BFS | | 
